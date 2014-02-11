@@ -2,4 +2,4 @@ ResearchIQ
 ==========
 
 ResearchIQ
-Twitter API being used: https://code.google.com/p/python-twitter/ 
+Twitter API being used: https://github.com/ryanmcgrath/twython/tree/master
